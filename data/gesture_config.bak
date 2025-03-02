@@ -1,0 +1,88 @@
+{
+    "gestures": [
+        {
+            "name": "ASL0",
+            "image": "data/gesture_+images/ASL0.png"
+        },
+        {
+            "name": "ASL1",
+            "image": "data/gesture_+images/ASL1.png"
+        },
+        {
+            "name": "ASL2",
+            "image": "data/gesture_+images/ASL2.png"
+        },
+        {
+            "name": "ASL3",
+            "image": "data/gesture_+images/ASL3.png"
+        },
+        {
+            "name": "ASL4",
+            "image": "data/gesture_+images/ASL4.png"
+        },
+        {
+            "name": "ASL5",
+            "image": "data/gesture_+images/ASL5.png"
+        },
+        {
+            "name": "ASL6",
+            "image": "data/gesture_+images/ASL6.png"
+        },
+        {
+            "name": "ASL7",
+            "image": "data/gesture_+images/ASL7.png"
+        },
+        {
+            "name": "ASL8",
+            "image": "data/gesture_+images/ASL8.png"
+        },
+        {
+            "name": "ASL9",
+            "image": "data/gesture_+images/ASL9.png"
+        },
+        {
+            "name": "Fist",
+            "image": "data/gesture_+images/Fist.png"
+        },
+        {
+            "name": "OK",
+            "image": "data/gesture_+images/OK.png"
+        },
+        {
+            "name": "ThumbUp",
+            "image": "data/gesture_+images/ThumbUp.png"
+        },
+        {
+            "name": "Shaka",
+            "image": "data/gesture_+images/Shaka.png"
+        },
+        {
+            "name": "Shoot",
+            "image": "data/gesture_+images/Shoot.png"
+        },
+        {
+            "name": "ILoveU",
+            "image": "data/gesture_+images/ILoveU.png"
+        },
+        {
+            "name": "Peace",
+            "image": "data/gesture_+images/Peace.png"
+        },
+        {
+            "name": "Curls",
+            "image": "data/gesture_+images/Curls.png"
+        },
+        {
+            "name": "Close",
+            "image": "data/gesture_+images/Close.png"
+        },
+        {
+            "name": "Point",
+            "image": "data/gesture_+images/Point.png"
+        }
+    ],
+    "session_count": 3,
+    "repeat_count_per_gesture": 10,
+    "random_gesture_count": 100,
+    "update_interval": 2
+}

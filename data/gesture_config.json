@@ -1,0 +1,16 @@
+{
+    "gestures": [
+        {
+            "name": "ASL0",
+            "image": "data/gesture_images/ASL0.png"
+        },
+        {
+            "name": "ASL1",
+            "image": "data/gesture_images/ASL1.png"
+        }
+    ],
+    "session_count": 2,
+    "repeat_count_per_gesture": 1,
+    "random_gesture_count": 1,
+    "update_interval": 3
+}
